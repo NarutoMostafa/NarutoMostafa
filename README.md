@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I’m Mostafa<br>I’m 16 years old<br>🤝 I’m intreasting to learn<br><br>💬Just do it<br>
+🔭 I’m Mostafa<br>⏱️I’m 16 years old<br>🤝 I’m intreasting to learn<br>💬Just do it<br>
 
 
 ## 🌐 Socials:
-[![naruto._.dec](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/naruto._.dev) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/996590624641929226) 
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
